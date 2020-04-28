@@ -3,4 +3,6 @@
 
 [git-essentials class](https://www.udemy.com/course/git-and-github-tutorial/learn/lecture/18080387#overview)
 
-This file changes as I progress through the class.
+This file changes as I progress through the class. It's a work in progress.
+
+
